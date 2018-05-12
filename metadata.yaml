@@ -1,4 +1,5 @@
 _repo: Pagoj-el-la-Flandra-Literaturo_48033
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -9,7 +10,12 @@ contributor:
     - agent_name: Seynaeve, Maurice
       gutenberg_agent_id: '44588'
       url: http://www.gutenberg.org/2009/agents/44588
+covers:
+- cover_type: archival
+  image_path: 48033-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48033#Pagoj-el-la-Flandra-Literaturo
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2015-01-20'
 gutenberg_type: Text
