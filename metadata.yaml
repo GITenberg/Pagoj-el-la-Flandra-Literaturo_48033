@@ -25,5 +25,7 @@ language: eo
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Paĝoj el la Flandra Literaturo
 url: http://www.gutenberg.org/ebooks/48033
